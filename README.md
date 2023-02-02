@@ -1,8 +1,6 @@
-## This Is a Fork
+## Project Networks (GD fork)
 
-Basically MultiMC wasn't allowing me to sign-in to my Mojang account anymore, GDLauncher is, but I don't like ads,
-and other forks that I found are outdated so I'll try my best to remove the ads here, may be updated whenever I feel like it.
-
+Basically Project networks is expanding and I everyone seems to like using my packs to play on the network so I have decided to create a launcher that installs everything for your no more manually adding java it does it all for you and comes pre loaded with the project network servers.
 ## Original Project
 For finding the original project quickly in case you want to:
 [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher)
